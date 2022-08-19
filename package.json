@@ -11,5 +11,8 @@
   },
   "devDependencies": {
     "astro": "^1.0.6"
+  },
+  "dependencies": {
+    "@picocss/pico": "^1.5.3"
   }
 }
